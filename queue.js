@@ -1,4 +1,4 @@
-// Queue -- FIFO(First in, First out)
+// Queue -- FIFO(First in First out)
 let queue = {
   data: [],
   add: function(element) {
