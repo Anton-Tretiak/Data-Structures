@@ -1,4 +1,4 @@
-// Stack -- LIFO(Last In First Out)
+// Stack -- LIFO(Last In First Out) or FILO(First In Last Out).
 let stack = {
   data: [],
   add: function(element) {
